@@ -1,2 +1,2 @@
-image: docker.io/mongo:4.2.2
+image: docker.io/simonesan/weatherapp:latest
 replicaCount: 1
