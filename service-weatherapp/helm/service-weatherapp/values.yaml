@@ -1,2 +1,2 @@
-image: docker.io/keptnexamples/service-weatherapp:0.11.1
+image: docker.io/simonesan/weatherapp:latest
 replicaCount: 1
